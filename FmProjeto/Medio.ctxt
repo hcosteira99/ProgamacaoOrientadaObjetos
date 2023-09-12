@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Medio
+comment1.params=
+comment1.target=Medio()
+comment10.params=
+comment10.target=java.util.List\ getEquipas()
+comment11.params=
+comment11.target=void\ setEquipasZero()
+comment12.params=
+comment12.target=java.lang.String\ getPosicao()
+comment2.params=nomeJ\ numeroJ\ vel\ res\ des\ imp\ cab\ rem\ p\ rec
+comment2.target=Medio(java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment3.params=jm
+comment3.target=Medio(Medio)
+comment4.params=input
+comment4.target=Medio\ parse(java.lang.String)
+comment5.params=
+comment5.target=Medio\ clone()
+comment6.params=nomeEquipa
+comment6.target=void\ addEquipa(java.lang.String)
+comment7.params=
+comment7.target=void\ setOverall()
+comment8.params=
+comment8.target=int\ getOverall()
+comment9.params=nome
+comment9.target=void\ setEquipaAtual(java.lang.String)
+numComments=13

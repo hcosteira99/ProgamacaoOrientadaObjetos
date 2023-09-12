@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Avancado
+comment1.params=
+comment1.target=Avancado()
+comment10.params=
+comment10.target=java.util.List\ getEquipas()
+comment11.params=
+comment11.target=void\ setEquipasZero()
+comment12.params=
+comment12.target=java.lang.String\ getPosicao()
+comment2.params=nomeJ\ numeroJ\ vel\ res\ des\ imp\ cab\ rem\ p
+comment2.target=Avancado(java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment3.params=ja
+comment3.target=Avancado(Avancado)
+comment4.params=input
+comment4.target=Avancado\ parse(java.lang.String)
+comment5.params=
+comment5.target=Avancado\ clone()
+comment6.params=nomeEquipa
+comment6.target=void\ addEquipa(java.lang.String)
+comment7.params=nome
+comment7.target=void\ setEquipaAtual(java.lang.String)
+comment8.params=
+comment8.target=void\ setOverall()
+comment9.params=
+comment9.target=int\ getOverall()
+numComments=13
